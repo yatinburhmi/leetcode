@@ -1,4 +1,4 @@
-# GCD or HCF
+# [GCD or HCF](https://www.geeksforgeeks.org/program-to-find-gcd-or-hcf-of-two-numbers/)
 
 Given two numbers a and b, find the greatest common divisor of a and b.
 
@@ -25,7 +25,7 @@ gcd(a,b){
 }
 ```
 
-> TC: log(max(a,b))
+> TC: log(min(a,b))
 
 ### Brute force approach
 
